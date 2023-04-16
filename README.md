@@ -1,5 +1,6 @@
 # string.h
-My own realization of standart library (C language) "string.h" for Mac and Linux
+My own realization of standart library (C language) "string.h" for Mac and Linux.
+For build static library do make all, for tests do make test, usage like in my_test.c.
 ## Realized functions
 ### memchr
 Searches for the first occurrence of the character c (an unsigned char) in the first n bytes of the string pointed to, by the argument str.
